@@ -140,6 +140,11 @@ body{
         padding: 5%;
     }
 
+    .links_bt{
+        padding: 5px 0;
+        width: 30%;
+    }
+
     .principal__conteiner{
         width: auto;
     }
