@@ -12,7 +12,7 @@ Bem-vindo ao meu projeto! Este arquivo README fornece uma visão geral do projet
 
 <hr>
 
->Futuras implementações: Reparar os botões para o mobile e colocar um sobre mim na segunda página.
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge)
 
 <hr>
 
